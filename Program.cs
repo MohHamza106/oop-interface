@@ -10,6 +10,28 @@
             //Circle c = new Circle(5);
             //c.DisplayShapeInfo();
             #endregion
+            #region Q2
+            //BasicAuthenticationService a = new BasicAuthenticationService();
+            //string username = "mohamed";
+            //int password = 010688;
+            //string role = "Admain";
+            //if (a.AuthenticateUser(username, password))
+            //{
+            //    Console.WriteLine("this is AuthenticateUser\n ");
+            //    if (a.AuthorizeUser(username, role))
+            //    {
+            //        Console.WriteLine("this is AuthorizeUser");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("this is  not AuthorizeUser");
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("this is not AuthorizeUser and not  AuthenticateUser");
+            //}
+            #endregion
 
         }
     }
