@@ -32,6 +32,16 @@
             //    Console.WriteLine("this is not AuthorizeUser and not  AuthenticateUser");
             //}
             #endregion
+            #region Q3
+            //INotificationService email = new EmailNotificationService("hello world");
+            //email.SendNotification();
+            //INotificationService push = new PushNotificationService("push ali");
+            //push.SendNotification();
+            //INotificationService sms = new SmsNotificationService("podjiofhdilaf");
+            //sms.SendNotification();
+            //INotificationService reference = new EmailNotificationService("mohamed");
+            //reference.SendNotification();
+            #endregion
 
         }
     }
